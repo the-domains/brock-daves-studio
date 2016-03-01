@@ -1,0 +1,28 @@
+name: Brock Daves Studio
+favicon: null
+layout_spectrum: 0.6207603104412556
+typography_spectrum: 0.3307346103247255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6800991846248507
+  lightness: 0.2713269100058824
+  saturation: 0.9565476179122925
+  rhythmicContrast: 0.9853115233127028
+purpose: []
